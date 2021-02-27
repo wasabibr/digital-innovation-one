@@ -10,12 +10,11 @@ Programação para internet com JavaScript
 
 - Introdução ao JavaScript
   - [x] Introdução ao JavaScript
-  - [ ] Array e Dicionário
-  - [ ] Condicionais, laços de repetição e Date
-  - [ ] Certifique seu conhecimento
-  - [ ] Introdução ao JavaScript
-
+  - [x] Array e Dicionário
+  - [x] Condicionais, laços de repetição e Date
+  - [x] Certifique seu conhecimento
+  
 - Desenvolva páginas web com JavaScript
-  - [ ] Desenvolva páginas web com JavaScript
+  - [x] Desenvolva páginas web com JavaScript
   - [ ] Parte 2: Manipulando elementos da página
   - [ ] Certifique seu conhecimento

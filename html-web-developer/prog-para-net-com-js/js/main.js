@@ -83,3 +83,64 @@ alert(d);
 alert(d.getMonth());
 alert(d.getMinutes());
 */
+
+// Desenvolva páginas web com JavaScript
+
+// ex 01
+/*
+function soma(n1, n2)
+{
+    return n1 + n2;
+}
+
+function setReplace(frase, nome, novo_nome)
+{
+    return frase.replace(nome, novo_nome)
+}
+
+alert(soma(5, 10));
+alert(setReplace("Vai Japão", "Japão", "Brasil"));
+*/
+
+// ex 02
+/*
+function soma(n1, n2)
+{
+    return n1 + n2;
+}
+
+var validar = 0;
+
+function validaIdade(idade)
+{
+    validar;
+    if(idade >= 18)
+    {
+        validar = true
+    }else{
+        validar = false
+    }
+    return validar
+}
+
+var idade = prompt("Qual sua idade?");
+validaIdade(idade)
+console.log(validar);
+*/
+
+function clicou()
+{
+    document.getElementById("agradecimento").innerHTML = "<strong>Obrigado por clicar</strong>";
+    //alert("Obrigado por clicar");
+}
+
+function redirecionar()
+{
+    window.open("https://globallab.org/en/#.YDnWJavPzIU"); // abre em outra janela
+    window.location.href = "https://globallab.org/en/#.YDnWJavPzIU"; // abre na mesma janela
+}
+
+function trocar()
+{
+    document.getElementById("mousemove").innerHTML = "Obrigado por pasar o mouse!";
+}

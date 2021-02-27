@@ -16,5 +16,5 @@ Programação para internet com JavaScript
   
 - Desenvolva páginas web com JavaScript
   - [x] Desenvolva páginas web com JavaScript
-  - [ ] Parte 2: Manipulando elementos da página
-  - [ ] Certifique seu conhecimento
+  - [x] Parte 2: Manipulando elementos da página
+  - [x] Certifique seu conhecimento

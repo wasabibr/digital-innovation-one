@@ -54,29 +54,20 @@ Obs.: Outras trilhas de conhecimento distintas, oferecidas  pela mesma plataform
 
    - Introdução ao JavaScript
      - [x] Introdução ao JavaScript
-     - [ ] Array e Dicionário
-     - [ ] Condicionais, laços de repetição e Date
-     - [ ] Certifique seu conhecimento
-     - [ ] Introdução ao JavaScript
+     - [x] Array e Dicionário
+     - [x] Condicionais, laços de repetição e Date
+     - [x] Certifique seu conhecimento
+     - [x] Introdução ao JavaScript
 
    - Desenvolva páginas web com JavaScript
-     - [ ] Desenvolva páginas web com JavaScript
-     - [ ] Parte 2: Manipulando elementos da página
-     - [ ] Certifique seu conhecimento
+     - [x] Desenvolva páginas web com JavaScript
+     - [x] Parte 2: Manipulando elementos da página
+     - [x] Certifique seu conhecimento
 
-2. JavaScript ES6 essencial
-
-3. Desenvolvimento avançado com JavaScript ES6
-
-4. Introdução ao ReactJS
-
-5. Práticas avançadas em projetos com ReactJS
-
-6. Desenvolvimento de aplicações para internet com ReactJS
 
 ### Desafios
 
-- [ ] Introdução a Programação com JavaScript
+- [x] Introdução a Programação com JavaScript
 - [ ] Fundamentos Aritméticos em JavaScript
 
 ### Projetos

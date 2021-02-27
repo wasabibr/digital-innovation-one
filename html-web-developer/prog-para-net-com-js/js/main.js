@@ -140,7 +140,24 @@ function redirecionar()
     window.location.href = "https://globallab.org/en/#.YDnWJavPzIU"; // abre na mesma janela
 }
 
-function trocar()
+function trocar(elemento)
 {
-    document.getElementById("mousemove").innerHTML = "Obrigado por pasar o mouse!";
+    //document.getElementById("mousemove").innerHTML = "Obrigado por pasar o mouse!";
+    elemento.innerHTML = "Obrigado por pasar o mouse!"
+}
+
+function voltar(elemento)
+{
+    //document.getElementById("mousemove").innerHTML = "Passe o mouse aqui!";
+    elemento.innerHTML = "Passe o mouse aqui!";
+}
+
+function load()
+{
+    alert("Página carregada...");
+}
+
+function funcaoChange(elemento)
+{
+    console.log(elemento.value)
 }

@@ -20,7 +20,7 @@
 body
 {
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 
@@ -120,3 +120,7 @@ header nav a:hover
     display: block;
 }
 
+.carousel-filmes
+{
+    margin-top: 9px;
+}

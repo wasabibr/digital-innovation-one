@@ -21,4 +21,7 @@ persons.push('Erika');
 // Podemos remover algum item
 persons.shift();
 
-console.log(persons);
+// Podemos alterar diretamente
+persons[1] = 'Maluzinho';
+
+console.log('\nArray após as alterações: ', persons);
